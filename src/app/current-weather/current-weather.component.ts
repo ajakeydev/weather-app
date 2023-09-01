@@ -15,7 +15,7 @@ export class CurrentWeatherComponent implements OnInit {
       city: 'Haslet',
       country: 'US',
       date: new Date(),
-      image: './assets/img/partlyCloudyApp02.svg',
+      image: '../../assets/img/partCloudyApp02.svg',
       temperature: 72,
       description: 'partly cloudy'
     } as ICurrentWeather
